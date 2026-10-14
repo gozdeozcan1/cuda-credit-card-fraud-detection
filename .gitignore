@@ -1,0 +1,17 @@
+/data/
+/build/
+/out/
+/.vs/
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.user
+*.suo
+*.log
+!benchmarks/reported_results.csv
